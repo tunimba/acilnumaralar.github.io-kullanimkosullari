@@ -1,47 +1,95 @@
-<h1>Website Terms and Conditions of Use</h1>
-
-<h2>1. Terms</h2>
-
-<p>By accessing this Website, accessible from https://tunimba.github.io/psikopedia.github.io-termsofservice/, you are agreeing to be bound by these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this Website are protected by copyright and trade mark law.</p>
-
-<h2>2. Use License</h2>
-
-<p>Permission is granted to temporarily download one copy of the materials on Psikopedia's Website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:</p>
-
+<h1>Kullanım Koşulları</h1>
+<p>Son güncellenme: 02/07/2024</p>
+<p>
+Sevgili ziyaretçimiz, lütfen uygulamamızı ziyaret etmeden önce işbu
+kullanım koşulları sözleşmesini dikkatlice okuyunuz. Uygulamaya erişiminiz
+tamamen bu sözleşmeyi kabulünüze ve bu sözleşme ile belirlenen
+şartlara uymanıza bağlıdır. Şayet bu sözleşmede yazan herhangi
+bir koşulu kabul etmiyorsanız, lütfen uygulamaya erişiminizi sonlandırınız.
+Uygulamaya erişiminizi sürdürdüğünüz takdirde, koşulsuz ve kısıtlamasız olarak,
+işbu sözleşme metninin tamamını kabul ettiğinizin, tarafımızca varsayılacağını
+lütfen unutmayınız.
+</p>
+<p>
+Acil Numaralar bundan sonra UYGULAMA olarak anılacaktır.
+İşbu uygulamaya ilişkin Kullanım Koşulları, yayınlanmakla yürürlüğe girer.
+Değişiklik yapma hakkı, tek taraflı olarak UYGULAMA'ya aittir ve
+UYGULAMA üzerinden güncel olarak paylaşılacak olan bu değişiklikleri,
+tüm kullanıcılarımız baştan kabul etmiş sayılır.
+</p>
+<h2>Gizlilik</h2>
+<p>
+Gizlilik, ayrı bir sayfada, kişisel verilerinizin tarafımızca
+işlenmesinin esaslarını düzenlemek üzere mevcuttur. UYGULAMA'yı kullandığınız takdirde,
+bu verilerin işlenmesinin gizlilik politikasına uygun olarak gerçekleştiğini
+kabul edersiniz.
+</p>
+<h2>Hizmet Kapsamı</h2>
+<p>
+Acil Numaralar olarak, sunacağımız hizmetlerin kapsamını ve niteliğini, yasalar
+çerçevesinde belirlemekte tamamen serbest olup; hizmetlere ilişkin yapacağımız
+değişiklikler, UYGULAMA'da yayınlanmakla yürürlüğe girmiş sayılacaktır.
+</p>
+<h2>Telif Hakları</h2>
+<p>
+UYGULAMA'da yayınlanan tüm metin, kod, grafikler,
+logolar, resimler, ses dosyaları ve kullanılan yazılımın sahibi
+(bundan böyle ve daha sonra "içerik" olarak anılacaktır) Acil Numaralar olup,
+tüm hakları saklıdır. Yazılı izin olmaksızın uygulama içeriğinin çoğaltılması veya kopyalanması
+kesinlikle yasaktır.
+</p>
+<h2>Genel Hükümler</h2>
 <ul>
-    <li>modify or copy the materials;</li>
-    <li>use the materials for any commercial purpose or for any public display;</li>
-    <li>attempt to reverse engineer any software contained on Psikopedia's Website;</li>
-    <li>remove any copyright or other proprietary notations from the materials; or</li>
-    <li>transferring the materials to another person or "mirror" the materials on any other server.</li>
+<li>
+Kullanıcıların tamamı, UYGULAMA'yı yalnızca hukuka uygun ve şahsi
+amaçlarla kullanacaklarını ve üçüncü kişinin haklarına tecavüz
+teşkil edecek nitelikteki herhangi bir faaliyette bulunmayacağını
+taahhüt eder. UYGULAMA dâhilinde yaptıkları işlem ve eylemlerindeki,
+hukuki ve cezai sorumlulukları kendilerine aittir. İşbu iş ve
+eylemler sebebiyle, üçüncü kişilerin uğradıkları veya uğrayabilecekleri
+zararlardan dolayı UYGULAMA'nın doğrudan ve/veya dolaylı hiçbir sorumluluğu yoktur.
+</li>
+<li>
+UYGULAMA'da mevcut bilgilerin doğruluk ve güncelliğini sağlamak için
+elimizden geleni yapmaktayız. Lakin gösterdiğimiz çabaya rağmen,
+bu bilgiler, fiili değişikliklerin gerisinde kalabilir, birtakım
+farklılıklar olabilir. Bu sebeple, uygulama içerisinde yer alan bilgilerin
+doğruluğu ve güncelliği ile ilgili tarafımızca, açık veya zımni, herhangi
+bir garanti verilmemekte, hiçbir taahhütte bulunulmamaktadır.
+</li>
+<li>
+UYGULAMA'da üçüncü şahıslar tarafından işletilen ve içerikleri tarafımızca
+bilinmeyen diğer web uygulamalarına, uygulamalara ve platformlara köprüler
+(hyperlink) bulunabilir. UYGULAMA, işlevsellik yalnızca bu uygulamalara ulaşımı
+sağlamakta olup, içerikleri ile ilgili hiçbir sorumluluk kabul etmemekteyiz.
+</li>
+<li>
+UYGULAMA'yı virüslerden temizlenmiş tutmak konusunda elimizden geleni
+yapsak da, virüslerin tamamen bulunmadığı garantisini vermemekteyiz.
+Bu nedenle veri indirirken, virüslere karşı gerekli önlemi almak, kullanıcıların
+sorumluluğundadır. Virüs vb. kötü amaçlı programlar, kodlar veya materyallerin
+sebep olabileceği zararlardan dolayı sorumluluk kabul etmemekteyiz.
+</li>
+<li>
+UYGULAMA'da sunulan hizmetlerde, kusur veya hata olmayacağına ya da
+kesintisiz hizmet verileceğine dair garanti vermemekteyiz. UYGULAMA'ya ve
+uygulamanın hizmetlerine veya herhangi bir bölümüne olan erişiminizi önceden
+bildirmeksizin herhangi bir zamanda sonlandırabiliriz.
+</li>
 </ul>
-
-<p>This will let Psikopedia to terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is printed or electronic format. These Terms of Service has been created with the help of the <a href="https://www.termsofservicegenerator.net">Terms Of Service Generator</a>.</p>
-
-<h2>3. Disclaimer</h2>
-
-<p>All the materials on Psikopedia's Website are provided "as is". Psikopedia makes no warranties, may it be expressed or implied, therefore negates all other warranties. Furthermore, Psikopedia does not make any representations concerning the accuracy or reliability of the use of the materials on its Website or otherwise relating to such materials or any sites linked to this Website.</p>
-
-<h2>4. Limitations</h2>
-
-<p>Psikopedia or its suppliers will not be hold accountable for any damages that will arise with the use or inability to use the materials on Psikopedia's Website, even if Psikopedia or an authorize representative of this Website has been notified, orally or written, of the possibility of such damage. Some jurisdiction does not allow limitations on implied warranties or limitations of liability for incidental damages, these limitations may not apply to you.</p>
-
-<h2>5. Revisions and Errata</h2>
-
-<p>The materials appearing on Psikopedia's Website may include technical, typographical, or photographic errors. Psikopedia will not promise that any of the materials in this Website are accurate, complete, or current. Psikopedia may change the materials contained on its Website at any time without notice. Psikopedia does not make any commitment to update the materials.</p>
-
-<h2>6. Links</h2>
-
-<p>Psikopedia has not reviewed all of the sites linked to its Website and is not responsible for the contents of any such linked site. The presence of any link does not imply endorsement by Psikopedia of the site. The use of any linked website is at the user's own risk.</p>
-
-<h2>7. Site Terms of Use Modifications</h2>
-
-<p>Psikopedia may revise these Terms of Use for its Website at any time without prior notice. By using this Website, you are agreeing to be bound by the current version of these Terms and Conditions of Use.</p>
-
-<h2>8. Your Privacy</h2>
-
-<p>Please read our Privacy Policy.</p>
-
-<h2>9. Governing Law</h2>
-
-<p>Any claim related to Psikopedia's Website shall be governed by the laws of tr without regards to its conflict of law provisions.</p>
+<h2>Sorumluluğun Sınırlandırılması</h2>
+<p>
+UYGULAMA'nın kullanımından doğan zararlara ilişkin sorumluluğumuz, kast ve ağır ihmal ile sınırlıdır.
+Sözleşmenin ihlalinden doğan zararlarda, talep edilebilecek toplam tazminat,
+öngörülebilir hasarlar ile sınırlıdır. Yukarıda bahsedilen sorumluluk sınırlamaları
+aynı zamanda insan hayatına, bedeni yaralanmaya veya bir kişinin sağlığına gelebilecek
+zararlar durumunda geçerli değildir. Hukuken mücbir sebep sayılan tüm durumlarda,
+gecikme, ifa etmeme veya temerrütten dolayı, herhangi bir tazminat yükümlülüğümüz
+doğmayacaktır.
+</p>
+<p>
+Uyuşmazlık Çözümü: İşbu Sözleşme'nin uygulanmasından veya yorumlanmasından
+doğacak her türlü uyuşmazlığın çözümünde, Türkiye Cumhuriyeti yasaları uygulanır;
+İstanbul Adliyesi Mahkemeleri ve İcra Daireleri yetkilidir.
+</p>
+<p>Bu kullanım koşulları, <a href="https://sartlar.com">https://sartlar.com</a> aracılığıyla oluşturulmuştur.</p>
