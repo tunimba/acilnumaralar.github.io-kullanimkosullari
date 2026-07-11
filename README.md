@@ -1,95 +1,134 @@
-<h1>Kullanım Koşulları</h1>
-<p>Son güncellenme: 02/07/2024</p>
+<h1>Kullanım Koşulları — AloTR</h1>
+<p><em>Son güncellenme: 11 Temmuz 2026</em></p>
+
 <p>
-Sevgili ziyaretçimiz, lütfen uygulamamızı ziyaret etmeden önce işbu
-kullanım koşulları sözleşmesini dikkatlice okuyunuz. Uygulamaya erişiminiz
-tamamen bu sözleşmeyi kabulünüze ve bu sözleşme ile belirlenen
-şartlara uymanıza bağlıdır. Şayet bu sözleşmede yazan herhangi
-bir koşulu kabul etmiyorsanız, lütfen uygulamaya erişiminizi sonlandırınız.
-Uygulamaya erişiminizi sürdürdüğünüz takdirde, koşulsuz ve kısıtlamasız olarak,
-işbu sözleşme metninin tamamını kabul ettiğinizin, tarafımızca varsayılacağını
-lütfen unutmayınız.
+Sevgili kullanıcımız, lütfen uygulamamızı kullanmadan önce işbu Kullanım Koşulları
+sözleşmesini dikkatlice okuyunuz. Uygulamaya erişiminiz, tamamen bu sözleşmeyi kabul
+etmenize bağlıdır. Sözleşmedeki herhangi bir koşulu kabul etmiyorsanız lütfen uygulamayı
+kullanmayı bırakınız. Uygulamayı kullanmaya devam etmeniz hâlinde, işbu sözleşmenin
+tamamını kabul ettiğiniz varsayılır.
 </p>
 <p>
-Acil Numaralar bundan sonra UYGULAMA olarak anılacaktır.
-İşbu uygulamaya ilişkin Kullanım Koşulları, yayınlanmakla yürürlüğe girer.
-Değişiklik yapma hakkı, tek taraflı olarak UYGULAMA'ya aittir ve
-UYGULAMA üzerinden güncel olarak paylaşılacak olan bu değişiklikleri,
-tüm kullanıcılarımız baştan kabul etmiş sayılır.
+AloTR (bundan sonra "UYGULAMA" olarak anılacaktır), Türkiye'ye yönelik bir acil ve yardım
+numaraları rehberidir. İşbu koşullar yayınlanmakla yürürlüğe girer. UYGULAMA, koşullarda
+tek taraflı değişiklik yapma hakkını saklı tutar; güncel koşullar UYGULAMA üzerinden
+paylaşılır ve kullanıcılar bunları kabul etmiş sayılır.
 </p>
-<h2>Gizlilik</h2>
-<p>
-Gizlilik, ayrı bir sayfada, kişisel verilerinizin tarafımızca
-işlenmesinin esaslarını düzenlemek üzere mevcuttur. UYGULAMA'yı kullandığınız takdirde,
-bu verilerin işlenmesinin gizlilik politikasına uygun olarak gerçekleştiğini
-kabul edersiniz.
-</p>
-<h2>Hizmet Kapsamı</h2>
-<p>
-Acil Numaralar olarak, sunacağımız hizmetlerin kapsamını ve niteliğini, yasalar
-çerçevesinde belirlemekte tamamen serbest olup; hizmetlere ilişkin yapacağımız
-değişiklikler, UYGULAMA'da yayınlanmakla yürürlüğe girmiş sayılacaktır.
-</p>
-<h2>Telif Hakları</h2>
-<p>
-UYGULAMA'da yayınlanan tüm metin, kod, grafikler,
-logolar, resimler, ses dosyaları ve kullanılan yazılımın sahibi
-(bundan böyle ve daha sonra "içerik" olarak anılacaktır) Acil Numaralar olup,
-tüm hakları saklıdır. Yazılı izin olmaksızın uygulama içeriğinin çoğaltılması veya kopyalanması
-kesinlikle yasaktır.
-</p>
-<h2>Genel Hükümler</h2>
+
+<h2>1. Acil Durum Sorumluluk Reddi (Önemli)</h2>
 <ul>
 <li>
-Kullanıcıların tamamı, UYGULAMA'yı yalnızca hukuka uygun ve şahsi
-amaçlarla kullanacaklarını ve üçüncü kişinin haklarına tecavüz
-teşkil edecek nitelikteki herhangi bir faaliyette bulunmayacağını
-taahhüt eder. UYGULAMA dâhilinde yaptıkları işlem ve eylemlerindeki,
-hukuki ve cezai sorumlulukları kendilerine aittir. İşbu iş ve
-eylemler sebebiyle, üçüncü kişilerin uğradıkları veya uğrayabilecekleri
-zararlardan dolayı UYGULAMA'nın doğrudan ve/veya dolaylı hiçbir sorumluluğu yoktur.
+UYGULAMA <strong>resmî acil servislerin yerine geçmez</strong> ve bir acil çağrı hizmeti
+değildir; yalnızca kamuya açık numaralara ulaşmayı kolaylaştıran bir rehberdir.
 </li>
 <li>
-UYGULAMA'da mevcut bilgilerin doğruluk ve güncelliğini sağlamak için
-elimizden geleni yapmaktayız. Lakin gösterdiğimiz çabaya rağmen,
-bu bilgiler, fiili değişikliklerin gerisinde kalabilir, birtakım
-farklılıklar olabilir. Bu sebeple, uygulama içerisinde yer alan bilgilerin
-doğruluğu ve güncelliği ile ilgili tarafımızca, açık veya zımni, herhangi
-bir garanti verilmemekte, hiçbir taahhütte bulunulmamaktadır.
+<strong>Gerçek bir acil durumda vakit kaybetmeden doğrudan 112'yi (veya ilgili resmî acil
+numarayı) arayın.</strong>
 </li>
 <li>
-UYGULAMA'da üçüncü şahıslar tarafından işletilen ve içerikleri tarafımızca
-bilinmeyen diğer web uygulamalarına, uygulamalara ve platformlara köprüler
-(hyperlink) bulunabilir. UYGULAMA, işlevsellik yalnızca bu uygulamalara ulaşımı
-sağlamakta olup, içerikleri ile ilgili hiçbir sorumluluk kabul etmemekteyiz.
+UYGULAMA'daki numaralar; kamu kurumları, resmî siteler ve üçüncü taraf kaynaklardan
+derlenir. Bu numaralar <strong>zaman içinde değişebilir, güncelliğini yitirebilir veya
+hatalı olabilir</strong>. Doğruluk ve güncellik konusunda açık ya da zımni hiçbir garanti
+verilmez. Kritik durumlarda numarayı resmî kaynağından teyit ediniz.
 </li>
 <li>
-UYGULAMA'yı virüslerden temizlenmiş tutmak konusunda elimizden geleni
-yapsak da, virüslerin tamamen bulunmadığı garantisini vermemekteyiz.
-Bu nedenle veri indirirken, virüslere karşı gerekli önlemi almak, kullanıcıların
-sorumluluğundadır. Virüs vb. kötü amaçlı programlar, kodlar veya materyallerin
-sebep olabileceği zararlardan dolayı sorumluluk kabul etmemekteyiz.
+Bir numaranın yanlış, eksik veya güncel olmaması ya da aramanın istenen sonucu vermemesi
+nedeniyle doğabilecek doğrudan veya dolaylı zararlardan UYGULAMA sorumlu tutulamaz.
+</li>
+</ul>
+
+<h2>2. "Doğrudan Temsilciye Bağlan" Özelliği</h2>
+<p>
+Bazı firmalar için, sesli menüyü atlayıp müşteri temsilcisine ulaşmayı kolaylaştıran tuş
+dizileri (kısayollar) sunulabilir. Bu diziler firmalar tarafından sık sık değiştirilir;
+her firmada bulunmaz ve çalışacağı garanti edilmez. Kısayol beklendiği gibi çalışmazsa,
+lütfen firmanın normal müşteri hizmetleri numarasını arayın. Değişiklik fark ederseniz
+uygulama içindeki detay ekranından bize bildirebilirsiniz.
+</p>
+
+<h2>3. Abonelik ve Premium</h2>
+<ul>
+<li>
+UYGULAMA'nın ücretsiz sürümü öncelikli acil numaralara erişim sunar. Premium abonelik,
+tüm kategorilerin kilidini açar ve reklamları kaldırır.
 </li>
 <li>
-UYGULAMA'da sunulan hizmetlerde, kusur veya hata olmayacağına ya da
-kesintisiz hizmet verileceğine dair garanti vermemekteyiz. UYGULAMA'ya ve
-uygulamanın hizmetlerine veya herhangi bir bölümüne olan erişiminizi önceden
+Abonelik, <strong>otomatik olarak yenilenen</strong> bir abonelik olup ödeme Apple ID
+hesabınız üzerinden alınır. İşlemler Apple ve RevenueCat tarafından yönetilir.
+</li>
+<li>
+Mevcut dönemin bitiminden en az 24 saat önce iptal edilmezse abonelik otomatik yenilenir
+ve ücret aynı süre için hesabınıza yansıtılır.
+</li>
+<li>
+Aboneliğinizi, cihazınızın <em>App Store &gt; hesap ayarları &gt; Abonelikler</em>
+bölümünden dilediğiniz zaman yönetebilir veya iptal edebilirsiniz. Kullanılmayan deneme
+süresi (varsa), bir abonelik satın alındığında geçersiz olur.
+</li>
+</ul>
+
+<h2>4. Reklamlar</h2>
+<p>
+Ücretsiz sürümde, Google AdMob aracılığıyla reklam gösterilebilir. Reklamların
+kişiselleştirilmesi, cihazınızda verdiğiniz izleme (ATT) iznine bağlıdır. Premium abonelerde
+reklam gösterilmez.
+</p>
+
+<h2>5. Gizlilik</h2>
+<p>
+Kişisel verilerinizin işlenmesine ilişkin esaslar, ayrı bir <strong>Gizlilik Politikası</strong>
+sayfasında düzenlenmiştir. UYGULAMA'yı kullanmanız, verilerin bu politikaya uygun şekilde
+işlendiğini kabul ettiğiniz anlamına gelir.
+</p>
+
+<h2>6. Fikri Mülkiyet ve Telif Hakları</h2>
+<p>
+UYGULAMA'da yer alan tasarım, metin, kod, arayüz ve düzenleme (numaraların derlenmesi ve
+kategorilendirilmesi dâhil) UYGULAMA'ya aittir; yazılı izin olmaksızın çoğaltılamaz veya
+kopyalanamaz. UYGULAMA'da görünen üçüncü taraf marka adları ve logoları, ilgili sahiplerinin
+mülkiyetindedir ve yalnızca ilgili kurumu <strong>tanıtıcı</strong> amaçla, kullanıcıların
+doğru hattı bulmasını kolaylaştırmak için kullanılır. Bu kullanım, söz konusu markalarla bir
+ortaklık, onay veya bağlantı bulunduğu anlamına gelmez.
+</p>
+
+<h2>7. Genel Hükümler</h2>
+<ul>
+<li>
+Kullanıcılar UYGULAMA'yı yalnızca hukuka uygun ve kişisel amaçlarla kullanacaklarını taahhüt
+eder. UYGULAMA dâhilindeki işlem ve eylemlerinden doğan hukuki ve cezai sorumluluk
+kullanıcıya aittir.
+</li>
+<li>
+UYGULAMA'daki bilgilerin doğruluğu ve güncelliği için elimizden geleni yaparız; ancak bu
+bilgiler fiili değişikliklerin gerisinde kalabilir. Bilgilerin doğruluğu ve güncelliği
+konusunda garanti verilmez.
+</li>
+<li>
+UYGULAMA, üçüncü şahıslarca işletilen dış hizmetlere (ör. telefon araması, resmî web
+siteleri) yönlendirme yapabilir; bu hizmetlerin içeriğinden sorumlu değiliz.
+</li>
+<li>
+Hizmetlerin kusursuz veya kesintisiz olacağı garanti edilmez. UYGULAMA'ya erişimi önceden
 bildirmeksizin herhangi bir zamanda sonlandırabiliriz.
 </li>
 </ul>
-<h2>Sorumluluğun Sınırlandırılması</h2>
+
+<h2>8. Sorumluluğun Sınırlandırılması</h2>
 <p>
-UYGULAMA'nın kullanımından doğan zararlara ilişkin sorumluluğumuz, kast ve ağır ihmal ile sınırlıdır.
-Sözleşmenin ihlalinden doğan zararlarda, talep edilebilecek toplam tazminat,
-öngörülebilir hasarlar ile sınırlıdır. Yukarıda bahsedilen sorumluluk sınırlamaları
-aynı zamanda insan hayatına, bedeni yaralanmaya veya bir kişinin sağlığına gelebilecek
-zararlar durumunda geçerli değildir. Hukuken mücbir sebep sayılan tüm durumlarda,
-gecikme, ifa etmeme veya temerrütten dolayı, herhangi bir tazminat yükümlülüğümüz
-doğmayacaktır.
+UYGULAMA'nın kullanımından doğan zararlara ilişkin sorumluluğumuz, kast ve ağır ihmal ile
+sınırlıdır. Talep edilebilecek toplam tazminat, öngörülebilir zararlarla sınırlıdır. Bu
+sınırlamalar; insan hayatına, bedeni yaralanmaya veya sağlığa gelebilecek zararlar bakımından
+zorunlu hukuk hükümlerinin öngördüğü ölçüde geçerli değildir. Mücbir sebep hâllerinde,
+gecikme veya ifa etmemeden dolayı tazminat yükümlülüğümüz doğmaz.
 </p>
+
+<h2>9. Uyuşmazlık Çözümü</h2>
 <p>
-Uyuşmazlık Çözümü: İşbu Sözleşme'nin uygulanmasından veya yorumlanmasından
-doğacak her türlü uyuşmazlığın çözümünde, Türkiye Cumhuriyeti yasaları uygulanır;
-İstanbul Adliyesi Mahkemeleri ve İcra Daireleri yetkilidir.
+İşbu Sözleşme'nin uygulanmasından veya yorumlanmasından doğacak uyuşmazlıklarda Türkiye
+Cumhuriyeti yasaları uygulanır; İstanbul Adliyesi Mahkemeleri ve İcra Daireleri yetkilidir.
 </p>
-<p>Bu kullanım koşulları, <a href="https://sartlar.com">https://sartlar.com</a> aracılığıyla oluşturulmuştur.</p>
+
+<h2>10. İletişim</h2>
+<p>
+Sorularınız için: <strong>tunahanaktay.apps@gmail.com</strong>
+</p>
